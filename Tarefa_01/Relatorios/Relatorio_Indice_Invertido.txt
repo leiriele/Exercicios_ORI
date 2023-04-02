@@ -1,0 +1,926 @@
+❶ Índice Invertido ❶
+
+Termo "pé" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 5], ['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "criança" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "ainda" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "sabe" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "quer" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "borboleta" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "maçã" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vidros" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pedras" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "rua" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "escadas" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "caminhos" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "terra" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "dura" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vão" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 4]]
+
+Termo "ensinando" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pode" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "voar" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "fruta" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "redonda" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "ramo" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "então" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "derrotado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "caiu" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "batalha" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "prisioneiro" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "condenado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "viver" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "sapato" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pouco" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "luz" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "conhecendo" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "mundo" encontrado em 3 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_porta_Vinicius_de_Moraes.pdf', 2], ['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "maneira" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "conhecer" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "outro" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "encerrado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "explorando" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vida" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "cego" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "brancas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "azuis" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "amarelas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "pretas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "brincam" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "belas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "borboletas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 3]]
+
+Termo "alegres" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "francas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "gostam" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "amarelinhas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "tão" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "bonitinhas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "oh" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "escuridão" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "troc" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 22]]
+
+Termo "ligeirinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 2]]
+
+Termo "cantando" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 3]]
+
+Termo "tamanquinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 3]]
+
+Termo "madrugada" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "portas" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "vizinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "batendo" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "tamanq" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "uinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "chove" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "silêncio" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "alagados" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "têm" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "sedas" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "arminhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "sonham" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "par" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "primeiro" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "ideia" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "contar" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "centopeia" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "pata" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "arranca" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "bichinha" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "manca" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "responda" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "ante" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "esqueça" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "existe" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "bicho" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "cem" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "algum" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "cabeças" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "feita" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "madeira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "matéria" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "morta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "nada" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "viva" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "porta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "abro" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "devagarinho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "pra" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "pas" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "menininho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "bem" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "cuidado" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "namo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "rado" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "prazenteira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "cozinheira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "supetão" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "capitão" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "fecho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 3]]
+
+Termo "frente" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "ca" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "quartel" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "tudo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "vivo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "aberta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "céu" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "po" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "brincar" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 3]]
+
+Termo "palavras" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "brinca" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "bola" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "papagaio" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "pião" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "tanto" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "gastam" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "quanto" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "nova" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "s" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "ficam" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "água" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "rio" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "sempre" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "cada" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "dia" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "novo" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "vamos" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "pequeno" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "dizem" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "fico" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "zangado" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "olhar" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "todo" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "queixo" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "levantado" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "formiga" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "falasse" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "vis" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "lá" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "chão" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "ia" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "dizer" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "certeza" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "grandão" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "pé" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 5], ['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "criança" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "ainda" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "sabe" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "quer" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "borboleta" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "maçã" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vidros" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pedras" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "rua" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "escadas" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "caminhos" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "terra" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "dura" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vão" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 4]]
+
+Termo "ensinando" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pode" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "voar" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "fruta" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "redonda" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "ramo" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "então" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "derrotado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "caiu" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "batalha" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "prisioneiro" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "condenado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "viver" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "sapato" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "pouco" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 2]]
+
+Termo "luz" encontrado em 2 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "conhecendo" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "mundo" encontrado em 3 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1], ['A_porta_Vinicius_de_Moraes.pdf', 2], ['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "maneira" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "conhecer" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "outro" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "encerrado" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "explorando" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "vida" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "cego" encontrado em 1 documento(s):
+ [['Ao_pé_de_sua_criança_Pablo_Neruda.pdf', 1]]
+
+Termo "brancas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "azuis" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "amarelas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "pretas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "brincam" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "belas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "borboletas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 3]]
+
+Termo "alegres" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "francas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "gostam" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "amarelinhas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "tão" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "bonitinhas" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "oh" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "escuridão" encontrado em 1 documento(s):
+ [['As_borboletas_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "troc" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 22]]
+
+Termo "ligeirinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 2]]
+
+Termo "cantando" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 3]]
+
+Termo "tamanquinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 3]]
+
+Termo "madrugada" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "portas" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "vizinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "batendo" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "tamanq" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "uinhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "chove" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "silêncio" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "alagados" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "têm" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "sedas" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "arminhos" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "sonham" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "par" encontrado em 1 documento(s):
+ [['A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf', 1]]
+
+Termo "primeiro" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "ideia" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "contar" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "centopeia" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "pata" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "arranca" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "bichinha" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "manca" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "responda" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "ante" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "esqueça" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "existe" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "bicho" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "cem" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 2]]
+
+Termo "algum" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "cabeças" encontrado em 1 documento(s):
+ [['A_Centopeia_Marina_Colasanti.pdf', 1]]
+
+Termo "feita" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "madeira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "matéria" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "morta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "nada" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "viva" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "porta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "abro" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "devagarinho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "pra" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "pas" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 4]]
+
+Termo "menininho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "bem" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "cuidado" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "namo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "rado" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "prazenteira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "cozinheira" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "supetão" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "capitão" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "fecho" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 3]]
+
+Termo "frente" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 2]]
+
+Termo "ca" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "quartel" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "tudo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "vivo" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "aberta" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "céu" encontrado em 1 documento(s):
+ [['A_porta_Vinicius_de_Moraes.pdf', 1]]
+
+Termo "po" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "brincar" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 3]]
+
+Termo "palavras" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "brinca" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "bola" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "papagaio" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "pião" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "tanto" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "gastam" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "quanto" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "nova" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "s" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "ficam" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "água" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "rio" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "sempre" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "cada" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "dia" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 2]]
+
+Termo "novo" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "vamos" encontrado em 1 documento(s):
+ [['Convite_José_Paulo_Paes.pdf', 1]]
+
+Termo "pequeno" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "dizem" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "fico" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "zangado" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "olhar" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "todo" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "queixo" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "levantado" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "formiga" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "falasse" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "vis" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "lá" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "chão" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "ia" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "dizer" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "certeza" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
+Termo "grandão" encontrado em 1 documento(s):
+ [['Pontinho_de_Vista_Pedro_Bandeira.pdf', 1]]
+
